@@ -1,0 +1,33 @@
+{
+  "name": "Pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "npx nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Erika Skarda",
+  "email": "erikaskarda@yahoo.com.br",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cpf-cnpj-validator": "^1.0.3",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "express-handlebars": "^5.3.2",
+    "handlebars": "^4.7.7",
+    "http-errors": "^1.7.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.13",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }
+}
