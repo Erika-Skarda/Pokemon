@@ -5,6 +5,9 @@ const cors = require("cors");
 const logger = require('morgan');
 const express = require('express');
 
+//const uri = "mongodb+srv://USERNAME:PASSWORD@CLUSTER_NAME.n9z04.mongodb.net/DATABASE_NAME?retryWrites=true&w=majority";
+const uri = process.env.MONGODB_URI;
+
 const app = express();
 app.use(cors());
 app.use(logger('dev'));

@@ -19,7 +19,7 @@ exports.getPokemonById = async function (req, res) {
       weight: data.weight,
       height: data.height,
       sprites: data.sprites,
-      // type: data.types
+      type: data.types
     })
   })
   .catch(err => {
@@ -57,7 +57,6 @@ exports.getPokemons = async function (req, res) {
     pokemons = (response.data.results);
 
     for(const pokemon in pokemons) {
-      console.log("POKE", pokemons[pokemon].name)
       const result = await axios.get(`${baseUrl}/${pokemons[pokemon].name}`)
         let obj = {
           name: (result.data.name),
