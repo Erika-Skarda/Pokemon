@@ -10,7 +10,9 @@
   "keywords": [
     "MongoDB",
     "NodeJS",
-    "Express"
+    "Express",
+    "jwt",
+    "authentication"
   ],
   "author": "Erika Skarda",
   "email": "erikaskarda@yahoo.com.br",
@@ -18,15 +20,19 @@
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.5",
     "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
-    "cpf-cnpj-validator": "^1.0.3",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
-    "express-handlebars": "^5.3.2",
-    "handlebars": "^4.7.7",
     "http-errors": "^1.7.2",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-simple": "^0.5.6",
     "lodash": "^4.17.21",
+    "moment": "^2.29.1",
     "mongoose": "^5.12.13",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.7",
     "path": "^0.12.7"
   }
