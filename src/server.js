@@ -5,8 +5,17 @@ const cors = require("cors");
 const logger = require('morgan');
 const express = require('express');
 
-//const uri = "mongodb+srv://USERNAME:PASSWORD@CLUSTER_NAME.n9z04.mongodb.net/DATABASE_NAME?retryWrites=true&w=majority";
-const uri = process.env.MONGODB_URI;
+const uri = process.env.MONGODB_URI
+
+// const { MongoClient } = require('mongodb');
+// const uri =  process.env.MONGODB_URI;
+// const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+// client.connect(err => {
+//   const collection = client.db("PokemonDB").collection("trades");
+//   // perform actions on the collection object
+//   client.close();
+// });
+
 
 const app = express();
 app.use(cors());
@@ -30,7 +39,7 @@ const tradeRouter = require('./routes/tradeRouter');
 app.use('/pokemon', pokemonRouter);
 app.use('/trade', tradeRouter);
 
-const PORT = config.LISTEN_PORT
+const PORT = config.MONGODB_URI
 const server = app.listen(PORT, () => {
   if(server) {
     console.log(`Server is running in http://localhost:${PORT}`)
