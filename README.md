@@ -21,7 +21,7 @@ API criada em NodeJs e o banco não-relacional MongoDB.
 
 ## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/charmander_icon-icons.com_67576.ico" /> Projeto
 
-Calculadora.
+calculadora de trades de pokemon, para que o usuário possa calcular se uma troca é "justa" ou não
 
 ## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/meowth_icon-icons.com_67543.ico" /> Instruções:
 
