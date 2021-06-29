@@ -32,10 +32,9 @@ const tradeRouter = require('./routes/tradeRouter');
 app.use('/pokemon', pokemonRouter);
 app.use('/trade', tradeRouter);
 
-const PORT = config.LISTEN_PORT || 3001
-const server = app.listen(PORT, () => {
+const server = app.listen(process.env.LISTEN_PORT, () => {
   if(server) {
-    console.log(`Server is running in http://localhost:${PORT}`)
+    console.log(`Server is running in http://localhost:${process.env.LISTEN_PORT}`)
   } else {
     console.log(`Failure`)
   }
