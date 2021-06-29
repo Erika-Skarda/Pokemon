@@ -10,7 +10,6 @@ dotenv.config();
 
 const uri = process.env.MONGODB_URI
 
-console.log(uri)
 const app = express();
 app.use(cors());
 app.use(logger('dev'));
