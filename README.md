@@ -23,7 +23,7 @@ API criada em NodeJs e o banco não-relacional MongoDB.
 
 Calculadora.
 
-## 🚀 Instruções:
+## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/meowth_icon-icons.com_67543.ico" /> Instruções:
 
 <b>[PDF](https://github.com/Erika-Skarda/integrado/blob/main/Teste-Backend.pdf)</b>
 
