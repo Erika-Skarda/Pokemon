@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "engines": {
+    "node": "14.17.1"
+  },
   "scripts": {
     "dev": "npx nodemon src/server.js",
     "start": "node src/server.js",
