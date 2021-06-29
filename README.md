@@ -70,7 +70,7 @@ Criar database IntegradoDB
 
 ```
 
-## Tecnologias usadas: <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/psyduck_icon-icons.com_67509.ico" />
+## Tecnologias usadas: <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/squirtle_icon-icons.com_67504.ico" />
 
 - [Javascript](https://www.javascript.com/)
 - [NodeJs](https://nodejs.org/en/download)
