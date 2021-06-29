@@ -27,7 +27,7 @@ calculadora de trades de pokemon, para que o usuário possa calcular se uma troc
 
 <b>[PDF](https://github.com/Erika-Skarda/integrado/blob/main/Teste-Backend.pdf)</b>
 
-## Backend(Funcionalidades):
+## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/psyduck_icon-icons.com_67509.ico" /> Backend(Funcionalidades):
 
 <h3 align="center"><b>Trade</b></h3>
 
@@ -70,9 +70,7 @@ Criar database IntegradoDB
 
 ```
 
-## Tecnologias usadas: :books:
-
-### Backend: 
+## Tecnologias usadas: <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/psyduck_icon-icons.com_67509.ico" />
 
 - [Javascript](https://www.javascript.com/)
 - [NodeJs](https://nodejs.org/en/download)
