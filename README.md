@@ -40,7 +40,7 @@ calculadora de trades de pokemon, para que o usuário possa calcular se uma troc
 
 <h3 align="center"><bPoekemon</b></h3>
 
-<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Listar todos pokemons</b>
+<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/snorlax_icon-icons.com_67505.png" /> <b>Listar todos pokemons</b>
 
 <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Pegar pokemon pelo ID</b>
 
