@@ -35,6 +35,4 @@ app.use('/trade', tradeRouter);
 const server = process.env.LISTEN_PORT || 3001;
 const host = process.env.HOST || '0.0.0.0';
 
-app.listen(server, host, function() {
-    console.log('Listening on port %d', server);
-});
+app.listen(process.env.PORT || 3001)
