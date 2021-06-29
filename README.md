@@ -1,4 +1,4 @@
-# Pokemon
+# Pokemon <img src=https://github.com/Erika-Skarda/Pokemon/blob/main/pikachu.ico" />
 
 API criada em NodeJs e o banco não-relacional MongoDB.
 
@@ -15,9 +15,9 @@ API criada em NodeJs e o banco não-relacional MongoDB.
 > Status do Projeto: Concluído :heavy_check_mark: 
 </br> 
 
-## Deploy
+## <img src=https://github.com/Erika-Skarda/Pokemon/blob/main/pikachu.ico" /> Deploy
 
- [Heroku](https://poke-trader-erika.herokuapp.com/)
+ <b>[Heroku](https://poke-trader-erika.herokuapp.com/)</b>
 
 ## 💻 Projeto
 
