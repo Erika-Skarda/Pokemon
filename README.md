@@ -19,7 +19,7 @@ API criada em NodeJs e o banco não-relacional MongoDB.
 
  <b>[Heroku](https://poke-trader-erika.herokuapp.com/)</b>
 
-## 💻 Projeto
+## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/charmander_icon-icons.com_67576.ico" /> Projeto
 
 Calculadora.
 
