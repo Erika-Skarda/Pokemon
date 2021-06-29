@@ -31,20 +31,20 @@ Calculadora.
 
 <h3 align="center"><b>Trade</b></h3>
 
-🙆‍♀️ <b>Criar Trade</b>
+<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Criar Trade</b>
 
-🙆‍♀️ <b>Listar todas trades</b>
+<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Listar todas trades</b>
 
-🙆‍♀️ 🙆‍♀️ <b>Listar trade por ID</b>
+<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Listar trade por ID</b>
 
 
 <h3 align="center"><bPoekemon</b></h3>
 
-🥑 <b>Listar todos pokemons</b>
+<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Listar todos pokemons</b>
 
-🥑 <b>Pegar pokemon pelo ID</b>
+<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Pegar pokemon pelo ID</b>
 
-🥑 <b>Pegarpokemon pelo nome</b>
+<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Pegarpokemon pelo nome</b>
  
 
 ## Como rodar a aplicação :arrow_forward:
