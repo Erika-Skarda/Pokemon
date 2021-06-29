@@ -42,9 +42,9 @@ calculadora de trades de pokemon, para que o usuário possa calcular se uma troc
 
 <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/snorlax_icon-icons.com_67505.png" /> <b>Listar todos pokemons</b>
 
-<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Pegar pokemon pelo ID</b>
+<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/snorlax_icon-icons.com_67505.png" /> <b>Pegar pokemon pelo ID</b>
 
-<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Pegarpokemon pelo nome</b>
+<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/snorlax_icon-icons.com_67505.png" /> <b>Pegarpokemon pelo nome</b>
  
 
 ## Como rodar a aplicação :arrow_forward:
