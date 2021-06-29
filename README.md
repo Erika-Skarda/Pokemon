@@ -15,6 +15,10 @@ API criada em NodeJs e o banco não-relacional MongoDB.
 > Status do Projeto: Concluído :heavy_check_mark: 
 </br> 
 
+## Deploy
+
+ [Heroku](https://poke-trader-erika.herokuapp.com/)
+
 ## 💻 Projeto
 
 Calculadora.
