@@ -1,4 +1,4 @@
-# Pokemon <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pikachu.ico" />
+# Pokemon <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon_go_play_game_cinema_film_movie_icon-icons.com_69163.ico" />
 
 API criada em NodeJs e o banco não-relacional MongoDB.
 
@@ -81,7 +81,7 @@ Criar database IntegradoDB
 
 - [MongoDB](https://www.mongodb.com/)
 
-## <img src="h<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pikachu.ico" />" /> Pré-requisitos
+## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pikachu.ico" /> Pré-requisitos
 
 :warning: [MongoDB](https://www.mongodb.com/)
 
