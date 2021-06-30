@@ -19,13 +19,13 @@ API criada em NodeJs e o banco não-relacional MongoDB.
 
  <b>[Heroku](https://poke-trader-erika.herokuapp.com/)</b>
 
-## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/charmander_icon-icons.com_67576.ico" /> Projeto
+## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/charmander_icon-icons.com_67576.ico" /> Projeto 
+
+calculadora de trades de pokemon, para que o usuário possa calcular se uma troca é "justa" ou não
 
 ## Documentação <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pikachu.ico" />
 
 [Postman](https://documenter.getpostman.com/view/15971782/TzkyLzW5)
-
-calculadora de trades de pokemon, para que o usuário possa calcular se uma troca é "justa" ou não
 
 ## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/meowth_icon-icons.com_67543.ico" /> Instruções:
 
