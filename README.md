@@ -47,7 +47,7 @@ calculadora de trades de pokemon, para que o usuário possa calcular se uma troc
 <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/snorlax_icon-icons.com_67505.png" /> <b>Pegarpokemon pelo nome</b>
  
 
-## Como rodar a aplicação :arrow_forward:
+## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/squirtle_icon-icons.com_67504.ico" /> Como rodar a aplicação 
 
 No terminal, clone o projeto: 
 
@@ -70,17 +70,17 @@ Criar database IntegradoDB
 
 ```
 
-## Tecnologias usadas: <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/squirtle_icon-icons.com_67504.ico" />
+## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/squirtle_icon-icons.com_67504.ico" /> Tecnologias usadas: 
 
 - [Javascript](https://www.javascript.com/)
 - [NodeJs](https://nodejs.org/en/download)
 - [Express](https://expressjs.com/)
 
-### Banco de dados:
+### <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/squirtle_icon-icons.com_67504.ico" /> Banco de dados:
 
 - [MongoDB](https://www.mongodb.com/)
 
-## Pré-requisitos
+## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/squirtle_icon-icons.com_67504.ico" /> Pré-requisitos
 
 :warning: [MongoDB](https://www.mongodb.com/)
 
