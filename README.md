@@ -38,7 +38,7 @@ calculadora de trades de pokemon, para que o usuário possa calcular se uma troc
 <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pokemon.ico" /> <b>Listar trade por ID</b>
 
 
-<h3 align="center"><bPoekemon</b></h3>
+<h3 align="center"><b>Pokemon</b></h3>
 
 <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/snorlax_icon-icons.com_67505.png" /> <b>Listar todos pokemons</b>
 
@@ -46,6 +46,7 @@ calculadora de trades de pokemon, para que o usuário possa calcular se uma troc
 
 <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/snorlax_icon-icons.com_67505.png" /> <b>Pegarpokemon pelo nome</b>
  
+ </br>
 
 ## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/squirtle_icon-icons.com_67504.ico" /> Como rodar a aplicação 
 
@@ -76,11 +77,11 @@ Criar database IntegradoDB
 - [NodeJs](https://nodejs.org/en/download)
 - [Express](https://expressjs.com/)
 
-### <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/squirtle_icon-icons.com_67504.ico" /> Banco de dados:
+### Banco de dados:
 
 - [MongoDB](https://www.mongodb.com/)
 
-## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/squirtle_icon-icons.com_67504.ico" /> Pré-requisitos
+## <img src="h<img src="https://github.com/Erika-Skarda/Pokemon/blob/main/pikachu.ico" />" /> Pré-requisitos
 
 :warning: [MongoDB](https://www.mongodb.com/)
 
