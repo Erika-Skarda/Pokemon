@@ -13,7 +13,9 @@ API criada em NodeJs e o banco não-relacional MongoDB.
 </div>
 
 </br> 
+
 > Status do Projeto: Concluído :heavy_check_mark: 
+> 
 </br> 
 
 ## <img src="https://github.com/Erika-Skarda/Pokemon/blob/main/bulbasaur_icon-icons.com_67580.ico" /> Deploy
